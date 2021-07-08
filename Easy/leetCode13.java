@@ -1,4 +1,4 @@
-public class LeetCode13 {
+public class Main {
 
     public static int romanToInt(String s) {
         int result = 0;
